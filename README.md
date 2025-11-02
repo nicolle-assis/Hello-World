@@ -1,4 +1,4 @@
 # Hello, World!
 Primeiro repositório do curso de Git e GitHub.
 
-alteração diretamente so site
+alteração diretamente do site
